@@ -1,0 +1,15 @@
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\bin\Debug\net6.0\ExamenTecnico.exe
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\bin\Debug\net6.0\ExamenTecnico.deps.json
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\bin\Debug\net6.0\ExamenTecnico.runtimeconfig.json
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\bin\Debug\net6.0\ExamenTecnico.dll
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\bin\Debug\net6.0\ref\ExamenTecnico.dll
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\bin\Debug\net6.0\ExamenTecnico.pdb
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\obj\Debug\net6.0\ExamenTecnico.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\obj\Debug\net6.0\ExamenTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\obj\Debug\net6.0\ExamenTecnico.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\obj\Debug\net6.0\ExamenTecnico.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\obj\Debug\net6.0\ExamenTecnico.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\obj\Debug\net6.0\ExamenTecnico.dll
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\obj\Debug\net6.0\ref\ExamenTecnico.dll
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\obj\Debug\net6.0\ExamenTecnico.pdb
+C:\Users\ariel\OneDrive\Escritorio\examenTecnico\ExamenTecnico\obj\Debug\net6.0\ExamenTecnico.genruntimeconfig.cache
